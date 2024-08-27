@@ -1,6 +1,6 @@
 import yt_dlp
 
-vid_url = ''
+vid_url = 'https://www.youtube.com/watch?v=eeAq4gkOEUY'
 
 ydl_opts = {
     'format': 'best',
