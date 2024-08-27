@@ -76,9 +76,6 @@ dataset/
 ### How it Works
 The project uses a convolutional neural network (CNN) to classify hand gestures. The real-time recognition is powered by OpenCV for video capture and MediaPipe for hand landmark detection.
 
-### Example Output
-![Example Output](examples/output.png)
-
 ## Future Improvements
 - Expand the dataset to include more complex gestures and words.
 - Implement dynamic gesture recognition (e.g., full words or phrases).
