@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
 
-# Load the trained model
+# Initial load of the trained model
 model = load_model('asl_alphabet_model.h5')
 
 # Define class labels (A-Z + additional labels)
